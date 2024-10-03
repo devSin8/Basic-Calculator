@@ -23,7 +23,7 @@ This project is a simple calculator built using HTML, CSS, and JavaScript. The c
 
     bash
 
-    git clone https://github.com/your-username/basic-calculator-website.git
+    git clone https://github.com/devSin8/basic-calculator-website.git
 
 Navigate to the Project Directory:
 
